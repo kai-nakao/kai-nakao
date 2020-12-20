@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kai-nakao)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=kai-nakao&repo=homebridge-switchbot-for-mac)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-nakao&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-nakao)
