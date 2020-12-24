@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kai-nakao)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-nakao)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=uhooi)](https://github.com/kai-nakao "trophy")
